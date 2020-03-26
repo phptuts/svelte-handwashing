@@ -35,7 +35,7 @@
 
 <div bp="grid">
 
-  <h2 bp="offset-5@md 4@md 12@sm">Seconds Left {secondsLeft}</h2>
+  <h2 bp="offset-5@md 4@md 12@sm">Seconds Left: {secondsLeft}</h2>
 </div>
 
 <ProgressBar {progress} />
