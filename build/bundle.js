@@ -406,7 +406,7 @@ var app = (function () {
     		c() {
     			div0 = element("div");
     			h2 = element("h2");
-    			t0 = text("Seconds Left ");
+    			t0 = text("Seconds Left: ");
     			t1 = text(/*secondsLeft*/ ctx[0]);
     			t2 = space();
     			create_component(progressbar.$$.fragment);
